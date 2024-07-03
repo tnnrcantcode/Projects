@@ -74,3 +74,11 @@ button:active
 {
     background-color: hsl(37, 100%, 70%);
 }
+.operators2:hover
+{
+    background-color: hsl(0, 0%, 80%);
+}
+.operators2:active
+{
+    background-color: hsl(0, 0%, 90%);
+}
